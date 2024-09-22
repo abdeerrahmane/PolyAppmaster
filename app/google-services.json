@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086077598735",
+    "project_id": "dronescan-ce92a",
+    "storage_bucket": "dronescan-ce92a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086077598735:android:a86bb9b1751812b6bbb77a",
+        "android_client_info": {
+          "package_name": "com.example.polyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0mAbA6cKUQCRUoAdpydrFFDhK6qANJs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
